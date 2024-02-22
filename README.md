@@ -15,3 +15,4 @@ The code that was used for training the models is available at [train.ipynb](htt
 To Exploit the model for asphalt crack segmentation, please click on  [![colab](https://user-images.githubusercontent.com/4096485/86174089-b2709f80-bb29-11ea-9faf-3d8dc668a1a5.png)](https://colab.research.google.com/drive/1FkvrEoppGUb_LZYhRi8Dqp0Xv62Cqtj-?usp=sharing)  and follow the tutorial.
 
 
+![alt text](https://github.com/amirhosseinghdv/Crack-Segmentation/blob/main/SegmentationExample.png)
