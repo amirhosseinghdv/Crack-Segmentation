@@ -8,7 +8,7 @@ Binary semantic segmentation for asphalt cracks
 
 ## 2. Report
 
-Please visit [Crack_Segmentation_Report.pdf]([https://github.com/amirhosseinghdv/Crack-Segmentation/blob/main/train.ipynb](https://github.com/amirhosseinghdv/Crack-Segmentation/blob/main/Crack_Segmentation_Report.pdf)) for the full report of the repository. 
+Please visit [Crack_Segmentation_Report.pdf](https://github.com/amirhosseinghdv/Crack-Segmentation/blob/main/Crack_Segmentation_Report.pdf) for the full report of the repository. 
 
 ## 3. Train
 
